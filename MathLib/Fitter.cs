@@ -608,7 +608,7 @@ namespace RFToolkit
     }
 
     /// <summary>
-    /// 测试程序
+    /// 测试程序2
     /// </summary>
     static class Sample
     {
